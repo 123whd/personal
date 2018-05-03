@@ -1,0 +1,27 @@
+E:\第三学期\个人项目要求\小项目\Small Project1\DAL\bin\Debug\DAL.dll
+E:\第三学期\个人项目要求\小项目\Small Project1\DAL\bin\Debug\DAL.pdb
+E:\第三学期\个人项目要求\小项目\Small Project1\DAL\bin\Debug\DBHelper.dll
+E:\第三学期\个人项目要求\小项目\Small Project1\DAL\bin\Debug\Models.dll
+E:\第三学期\个人项目要求\小项目\Small Project1\DAL\bin\Debug\DBHelper.pdb
+E:\第三学期\个人项目要求\小项目\Small Project1\DAL\bin\Debug\Models.pdb
+E:\第三学期\个人项目要求\小项目\Small Project1\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\第三学期\个人项目要求\小项目\Small Project1\DAL\obj\Debug\DAL.dll
+E:\第三学期\个人项目要求\小项目\Small Project1\DAL\obj\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\3层博客小项目\Small Project1\DAL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\3层博客小项目\Small Project1\DAL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\3层博客小项目\Small Project1\DAL\bin\Debug\DBHelper.dll
+C:\Users\Administrator\Desktop\3层博客小项目\Small Project1\DAL\bin\Debug\Models.dll
+C:\Users\Administrator\Desktop\3层博客小项目\Small Project1\DAL\bin\Debug\DBHelper.pdb
+C:\Users\Administrator\Desktop\3层博客小项目\Small Project1\DAL\bin\Debug\Models.pdb
+C:\Users\Administrator\Desktop\3层博客小项目\Small Project1\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\3层博客小项目\Small Project1\DAL\obj\Debug\DAL.dll
+C:\Users\Administrator\Desktop\3层博客小项目\Small Project1\DAL\obj\Debug\DAL.pdb
+D:\77777777777\DAL\bin\Debug\DAL.dll
+D:\77777777777\DAL\bin\Debug\DAL.pdb
+D:\77777777777\DAL\bin\Debug\DBHelper.dll
+D:\77777777777\DAL\bin\Debug\Models.dll
+D:\77777777777\DAL\bin\Debug\DBHelper.pdb
+D:\77777777777\DAL\bin\Debug\Models.pdb
+D:\77777777777\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\77777777777\DAL\obj\Debug\DAL.dll
+D:\77777777777\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,9 @@
+E:\第三学期\个人项目要求\小项目\Small Project1\DAL\bin\Release\DAL.dll
+E:\第三学期\个人项目要求\小项目\Small Project1\DAL\bin\Release\DAL.pdb
+E:\第三学期\个人项目要求\小项目\Small Project1\DAL\bin\Release\DBHelper.dll
+E:\第三学期\个人项目要求\小项目\Small Project1\DAL\bin\Release\Models.dll
+E:\第三学期\个人项目要求\小项目\Small Project1\DAL\bin\Release\DBHelper.pdb
+E:\第三学期\个人项目要求\小项目\Small Project1\DAL\bin\Release\Models.pdb
+E:\第三学期\个人项目要求\小项目\Small Project1\DAL\obj\Release\ResolveAssemblyReference.cache
+E:\第三学期\个人项目要求\小项目\Small Project1\DAL\obj\Release\DAL.dll
+E:\第三学期\个人项目要求\小项目\Small Project1\DAL\obj\Release\DAL.pdb

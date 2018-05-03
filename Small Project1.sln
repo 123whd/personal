@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{6D744A34-B1B8-43B9-A710-39075BABD57B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{79F190D6-0D62-4CA1-A17B-681A010B23E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{9CC9C494-42AB-42E6-A5A0-CE6983C62FDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBHelper", "DBHelper\DBHelper.csproj", "{1525391C-D411-4EFE-B884-2723E1B88DC3}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Blog", "Blog\", "{F84F437C-152B-4FEF-B1D7-1D0C5C0D87DE}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		ProjectReferences = "{9CC9C494-42AB-42E6-A5A0-CE6983C62FDB}|BLL.dll;{79F190D6-0D62-4CA1-A17B-681A010B23E7}|DAL.dll;{1525391C-D411-4EFE-B884-2723E1B88DC3}|DBHelper.dll;{6D744A34-B1B8-43B9-A710-39075BABD57B}|Models.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/Blog"
+		Debug.AspNetCompiler.PhysicalPath = "Blog\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Blog\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Blog"
+		Release.AspNetCompiler.PhysicalPath = "Blog\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Blog\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1037"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D744A34-B1B8-43B9-A710-39075BABD57B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D744A34-B1B8-43B9-A710-39075BABD57B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D744A34-B1B8-43B9-A710-39075BABD57B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D744A34-B1B8-43B9-A710-39075BABD57B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79F190D6-0D62-4CA1-A17B-681A010B23E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79F190D6-0D62-4CA1-A17B-681A010B23E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79F190D6-0D62-4CA1-A17B-681A010B23E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79F190D6-0D62-4CA1-A17B-681A010B23E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CC9C494-42AB-42E6-A5A0-CE6983C62FDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CC9C494-42AB-42E6-A5A0-CE6983C62FDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CC9C494-42AB-42E6-A5A0-CE6983C62FDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CC9C494-42AB-42E6-A5A0-CE6983C62FDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1525391C-D411-4EFE-B884-2723E1B88DC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1525391C-D411-4EFE-B884-2723E1B88DC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1525391C-D411-4EFE-B884-2723E1B88DC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1525391C-D411-4EFE-B884-2723E1B88DC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F84F437C-152B-4FEF-B1D7-1D0C5C0D87DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F84F437C-152B-4FEF-B1D7-1D0C5C0D87DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F84F437C-152B-4FEF-B1D7-1D0C5C0D87DE}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{F84F437C-152B-4FEF-B1D7-1D0C5C0D87DE}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

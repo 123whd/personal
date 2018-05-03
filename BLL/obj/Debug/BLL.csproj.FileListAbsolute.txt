@@ -1,0 +1,33 @@
+E:\第三学期\个人项目要求\小项目\Small Project1\BLL\bin\Debug\BLL.dll
+E:\第三学期\个人项目要求\小项目\Small Project1\BLL\bin\Debug\BLL.pdb
+E:\第三学期\个人项目要求\小项目\Small Project1\BLL\bin\Debug\DAL.dll
+E:\第三学期\个人项目要求\小项目\Small Project1\BLL\bin\Debug\Models.dll
+E:\第三学期\个人项目要求\小项目\Small Project1\BLL\bin\Debug\DBHelper.dll
+E:\第三学期\个人项目要求\小项目\Small Project1\BLL\bin\Debug\DAL.pdb
+E:\第三学期\个人项目要求\小项目\Small Project1\BLL\bin\Debug\Models.pdb
+E:\第三学期\个人项目要求\小项目\Small Project1\BLL\bin\Debug\DBHelper.pdb
+E:\第三学期\个人项目要求\小项目\Small Project1\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\第三学期\个人项目要求\小项目\Small Project1\BLL\obj\Debug\BLL.dll
+E:\第三学期\个人项目要求\小项目\Small Project1\BLL\obj\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\3层博客小项目\Small Project1\BLL\bin\Debug\BLL.dll
+C:\Users\Administrator\Desktop\3层博客小项目\Small Project1\BLL\bin\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\3层博客小项目\Small Project1\BLL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\3层博客小项目\Small Project1\BLL\bin\Debug\Models.dll
+C:\Users\Administrator\Desktop\3层博客小项目\Small Project1\BLL\bin\Debug\DBHelper.dll
+C:\Users\Administrator\Desktop\3层博客小项目\Small Project1\BLL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\3层博客小项目\Small Project1\BLL\bin\Debug\Models.pdb
+C:\Users\Administrator\Desktop\3层博客小项目\Small Project1\BLL\bin\Debug\DBHelper.pdb
+C:\Users\Administrator\Desktop\3层博客小项目\Small Project1\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\3层博客小项目\Small Project1\BLL\obj\Debug\BLL.dll
+C:\Users\Administrator\Desktop\3层博客小项目\Small Project1\BLL\obj\Debug\BLL.pdb
+D:\77777777777\BLL\bin\Debug\BLL.dll
+D:\77777777777\BLL\bin\Debug\BLL.pdb
+D:\77777777777\BLL\bin\Debug\DAL.dll
+D:\77777777777\BLL\bin\Debug\Models.dll
+D:\77777777777\BLL\bin\Debug\DBHelper.dll
+D:\77777777777\BLL\bin\Debug\DAL.pdb
+D:\77777777777\BLL\bin\Debug\Models.pdb
+D:\77777777777\BLL\bin\Debug\DBHelper.pdb
+D:\77777777777\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\77777777777\BLL\obj\Debug\BLL.dll
+D:\77777777777\BLL\obj\Debug\BLL.pdb
